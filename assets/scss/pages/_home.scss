@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// 1-ci
+
+
+// main {
+//     position: relative;
+//   }
+  
+//   header{
+//     display: flex;
+//       align-items: center;
+//       justify-content: center;
+//       width: 100%;
+//       height: auto;
+//       z-index: 4;
+//       position: absolute;
+//       background-color: $second-color;
+//     nav{
+//         width: 80%;
+//         margin: auto;
+//         background-color: $second-color;
+//         padding: 10px;
+//         .collapseDiv{
+//             justify-content: flex-end;
+//             background-color: $second-color;
+//             .navbar-nav li a{
+//                 font-size: 12px;
+//                 font-weight: bold;
+//                 line-height: 1;
+//                 color: $main-end-color;
+
+//                 &:hover {
+//                     color:$important-color !important;
+//                 }  
+//             }
+//         }
+//     }
+// }
+
+//   section {
+//     width: 100%;
+//     height: 700px;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     background-position: center;
+//     background-image: url('https://preview.colorlib.com/theme/bizpro/images/home/slide-1.jpg');
+  
+//     .text {
+//       width: 600px;
+//       height: 400px;
+//       padding-top: 20px;
+//       display: flex;
+//       flex-direction: column;
+//       justify-content: center;
+//       align-items: center;
+//       font-family: inherit;
+  
+//       h1 {
+//         font-size: 40px;
+//         line-height: 1.1;
+//         font-weight: 700;
+//         color: $main-color;
+//       }
+  
+//       p {
+//         font-size: 15px;
+//         color:$main-color;
+//         font-weight: 500;
+  //     }
+  
+  //     button {
+  //       width: 160px;
+  //       height: 45px;
+  //       color: $main-color;
+  //       font-size: 13px;
+  //       background-color: transparent;
+  //       border: 1px solid $important-color;
+  
+  //       &:hover {
+  //         background-color: $important-color;
+  //       }
+  //     }
+  //   }
+  // }
+  
+
+// 2-ci
+// header{
+//     nav{
+//         width: 70%;
+//         margin: auto;
+//         background-color: $main-second-color;
+//         padding: 10px;
+//         .collapseDiv{
+//             justify-content: flex-end;
+//             background-color:$main-second-color;
+//             .navbar-nav li a{
+//                 font-size: 15px;
+//                 color: $main-end-color;
+
+//                 &:hover {
+//                     color: $important-color!important;
+//                 }  
+//             }
+//         }
+//     }
+// }
+
+// 3-cu-Header
+
+//   header {
+//     background-color: $bg-color;
+
+//     nav {
+//         width: 70%;
+//         margin: auto;
+
+//         .collapseDiv {
+//             .navItem {
+//                 color:$nav-color;
+                
+//             }
+
+//             .navbutton {
+//                 justify-content: flex-end;
+
+//                 button#register {
+//                     width: 120px;
+//                     height: 40px;
+//                     border: 2px solid $button-color;
+//                     &:hover {
+//                         background-color:$button-color;
+//                     }
+//                 }
+
+//                 button#login {
+//                     width: 120px;
+//                     height: 42px;
+//                     background-color: $button-color;
+//                     &:hover {
+//                         background-color: $button-color;
+//                   }
+//                }
+//            }
+//        }
+//     }
+//  }
+
+// 4-cu header
+
+// header{
+//     nav{
+//         width: 70%;
+//         margin: auto;
+//         background-color: $main-color;
+//         padding: 10px;
+//         .collapseDiv{
+//             justify-content: flex-end;
+//             background-color: $main-color;
+//             .navbar-nav li a{
+//                 font-size: 15px;
+//                 font-weight: bold;
+//                 line-height: 1.2;
+//                 color: $main-end-color;
+
+//                 &:hover {
+//                     color: $hover-color !important;
+//                 }  
+//             }
+//         }
+//     }
+// }
